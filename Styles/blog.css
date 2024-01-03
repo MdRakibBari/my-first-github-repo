@@ -9,3 +9,9 @@ div{
     margin: auto;
     
 }
+img{
+    /* margin-top: 20px; */
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
